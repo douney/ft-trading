@@ -1,0 +1,18 @@
+name: ig_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - requests
+  - pycryptodome
+  - numpy
+  - pandas
+  - pytest
+  - pip:
+      - fastapi
+      - lightstreamer-client-lib
+      - pytz
+      - six
+      - uvicorn
+prefix: /Users/syride/miniforge3/envs/ig_env

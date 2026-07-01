@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+pycryptodome
+numpy
+pandas
+pytest
+lightstreamer-client-lib
+pytz
+six
